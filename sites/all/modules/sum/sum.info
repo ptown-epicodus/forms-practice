@@ -1,0 +1,5 @@
+name = Sum
+description  = A module to add numbers.  Thus creating a sum.
+package = Z+P Practice
+core = 7.x
+files[] = sum.module
